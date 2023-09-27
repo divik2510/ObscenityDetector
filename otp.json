@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "kavach-offscene-blocker",
+    "private_key_id": "6bedb839e1c042399f65be22ade4dfe8f5a634b1",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDCNvfxhcetueJP\n9Y0ikodVEU2f+TBIBX0goTe93kreSGMeE26xoZsyfOrCGgommiWpGAX+MYwOI4Fn\nQ2WDsRwp4K88zogpuq5Q0rRpw3aLwxmtsdlW7MhoLKP8ROSVIf4Iosy0awh83F61\n3a7rdLxS3ICBJ5oPVCt9RLtfYhGi2yCAzJigaGn2TXAwL30F+4zIupwtwEDEjWQ3\nmLjumTAcxXzNVZTPG7gWxwfWvNRY+KsXPQ1MOkupDYoqk7qTjPkdhVzIUgsYvnN9\nQMES4OhBLgtR4TWNWLL6FqW509o8inSFMw7i6YOuUM8C0v3AGgV3iHpoyqXEodzg\nHSckya5tAgMBAAECggEAI+XIH37UQSKuF4xyCVVfKVSY7fw/tdg54BmcdX5MhViI\n5Yq+95tA1eyr8bOhc7AjTOVxWiIrWoOqi/0zmstWQtFSYqFkHp5wUOUZTsE/vKaT\nrPzGCOCcTFEQAHV1cLFHRK5euuxbtcR/xwrSJZg+pOw33meE/NdYcH+PSJqWWuzm\nW6l0WLw6DKrKCk2h/0z7yTyMpDUWB0sOSiYR0kqZqSY3Bf2XNhnUGbJmLcuFfXqY\nv5ob5RwcViZOUUZY8zFPb+OYANKbJrDbdtAamqPHNwv3hpoTgeel/3gaaw4tf9ip\ncjlrFh0z/ENILoMuaUzHhcnazYL992j+WnGKlYuYQQKBgQDjZtqknEP7+pa4z5bK\n0nmve6ySwzvyZQ7M0i7VTvndAFhUZlPq0JncGnvSkvmP3TOGkkrM2ShV+SclOm59\n87xVG9tIafgPMDZXtCmHCU6PwFWihudJ1AVE0l6MXmsrEDZkn/YSEyO99rhjZWem\ngG6L51/bau42KBxDka8Y2nh7zQKBgQDao6pKHB3cll8n9AfBrs+PSvSdprXsKGtA\npkvZPUeO91xn6iMae8Os2MojXwKWfecZa4lNmbZpJ54xS/o0UWeH3PR2BHVEkcSk\nW1fi4L6MpKmmaqMlAaxHAMHq/Kez+wKTbrQe65lj1p0Xj5yKhNMy7FMAlAILHQZO\neWLH0amdIQKBgQDdGqK4ryADHxHxvBYYOzIKCCwxvxbIhq4vRKY4zUNxOOapmZ06\nkX0oX6/JfRKeaSuySwfjybnIbis7rWbFnHmgHyfFbxO8YNpVyF0gaVIzv4UENDsq\ns7YzxoAb56o4AtmAWXA+/tEf4YZDTtPLNtFFwsCXbY8UpUdmA37GoZXIeQKBgEva\ndk0J3i5WmSLSXhKLJIWROrarTPhmuXcPescepIHsPcnriEw63hNMjyygXNR7T78Y\n+OTMTGXFEfQGaQLXrzSKquF7AHhOnktrSV10HYfL5PPQkVNYdj2X/K8bAs/FaQpf\nYOxNTsU9gvjWoTfJh0BmjxFnSCI06qg1ItkyW0chAn8YcWeC0GWBgO1kpyw0cgr3\nTuOLvYdqB+ryh4n/FPxuF2Y6fW1CMEYUITNsFKuoc0WKYJa80lylQ1nTzNkzol4V\nkw2NKTnRJl88dNl0juWcIGGuBNr/n5gkeRi0zM5yoKUcPFlMZBRrA6/NxfsrZGPi\nhzk//X9PXU6zg1a0+grG\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-cxhq2@kavach-offscene-blocker.iam.gserviceaccount.com",
+    "client_id": "110220737118713525865",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-cxhq2%40kavach-offscene-blocker.iam.gserviceaccount.com"
+  }

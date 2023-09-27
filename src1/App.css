@@ -1,0 +1,135 @@
+/* .App {
+  text-align: center;
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: "Helvetica Neue";
+    font-style: normal;
+  }
+  
+  .background {
+    height: 100vh;
+    width: 100%;
+    background-image: url("./kavachlogo.png");
+    background-repeat: no-repeat;
+    min-width: 500px;
+    background-size: 100% auto;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    color: white;
+  }
+  
+  .side2 {
+    display: flex;
+    align-items: center;
+    width: 182px;
+    height: 33px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 15px;
+    padding: 1px 6px;
+  }
+  
+  .main {
+    display: flex;
+    /* justify-content: space-around; */
+    margin: 9% 16%;
+  }
+  
+  h1 {
+    width: 640.4px;
+    height: 300.74px;
+  
+    font-weight: 700;
+    font-size: 87.037px;
+    line-height: 91px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -2.77778px;
+  
+    color: #000000;
+  
+    /* Inside auto layout */
+  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  .firstHalf p {
+    width: 447.18px;
+    height: 104px;
+  
+    font-weight: 300;
+    font-size: 16.6667px;
+    line-height: 26px;
+  
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.185185px;
+  
+    color: #425466;
+  
+    /* Inside auto layout */
+  
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+  }
+  
+  .secondHalf {
+    /* display: flex; */
+    margin-top: 15%;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+  }
+  
+  h2 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  input[type="text"] {
+    /* background-color: white; */
+    width: 80%;
+    background-image: url("./Link.svg");
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    border: none;
+    box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+  }
+  button {
+    border: 0.5px solid black;
+    color: black;
+    background-color: white;
+    padding: 4px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+    margin: 1px;
+  }
+  
+  button:hover {
+    background-color: black;
+    color: white;
+  }
+  
